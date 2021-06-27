@@ -30,7 +30,7 @@ export default App;
 
 
 //npm install @material-ui/core
-//npm install formik --save
+//npm install formik
 //npm add -D @types/material-ui
 //<link rel="styleshit" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500">
 //Icons: install @material-ui/icon

@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "name" : "Lars",
+        "specialization" : {"specialization" : "PEDIATRICIAN"}
+
+    },
+    {
+        "id" : 2,
+        "name" : "Jane",
+        "specialization" :   {"specialization" : "PSYCHOLOGIST"}
+
+    },
+    {
+        "id" : 3,
+        "name" : "Martin",
+        "specialization" : {"specialization" : "CHIROPRAKTOR"} 
+
+    }    
+]

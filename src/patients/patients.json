@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Ivar Jannesen",
+    "cprNumber": "2912821231",
+    "birthday": "1973-12-29"
+  },
+  {
+    "id": 2,
+    "name": "Nancy Berggren",
+    "cprNumber": "2504611234",
+    "birthday": "1983-04-25"
+  }
+]
